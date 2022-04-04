@@ -2,10 +2,10 @@
 using namespace std;
 int main(){
 	int a,b,c;
-	cout<<"Enter  a digit\n";
+	cout<<"Enter  a number\n";
 	cin>>a;
-	cout<<"enter another digit\n";
+	cout<<"enter another number\n";
 	cin>>b;
 	c=a+b;
-	cout<<"Sum of both digit is "<<c;
+	cout<<"Sum of both the numbers is "<<c;
 }
