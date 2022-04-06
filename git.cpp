@@ -6,6 +6,6 @@ int main(){
 	cin>>a;
 	cout<<"enter another number\n";
 	cin>>b;
-	c=a+b;
-	cout<<"Sum of both the numbers is "<<c;
+	c=a*b;
+	cout<<"Multiplication of both the numbers is "<<c;
 }
